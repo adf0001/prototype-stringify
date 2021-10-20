@@ -1,0 +1,26 @@
+{
+  "name": "prototype-stringify",
+  "version": "1.0.1",
+  "description": "stringify simple object, including data in prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "prototype",
+    "stringify"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/prototype-stringify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/prototype-stringify/issues"
+  },
+  "homepage": "https://github.com/adf0001/prototype-stringify#readme",
+  "dependencies": {
+    "is-simple-object": "^1.0.2"
+  }
+}
